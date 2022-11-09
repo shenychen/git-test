@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-
+adadadada
 export default class VerDOM extends Component {
     state = { name: "张三" }
     constructor(props) {
